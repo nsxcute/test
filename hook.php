@@ -1,3 +1,5 @@
 <?php
 
-echo 'hello 宝宝';
+echo exec('whoami');
+
+
